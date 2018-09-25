@@ -1,0 +1,74 @@
+* {
+  font-family: Verdana;
+}
+
+#body-style {
+  background-color: #F6F6F6;
+  text-align: center;
+  margin: 100px;
+}
+
+#h1-style {
+  font-size: 35px;
+  color: #E15554;
+}
+
+#img-style {
+  width: 200px;
+}
+
+h2 {
+  font-size: 25px;
+  font-weight: 600;
+  background-color: #E1BC29;
+  padding: 15px;
+  color: white;
+}
+
+.coach-style {
+
+  font-size: 20px;
+  font-weight: 100;
+  text-align: left;
+  list-style-type: circle;
+  line-height: 35px;
+
+}
+
+.clapped-style {
+
+  font-size: 20px;
+  font-weight: 500;
+  text-align: left;
+  line-height: 35px;
+}
+
+ol {
+  display: table;
+  margin: 0 auto;
+}
+
+ol li {
+  text-align:left;
+}
+
+.active {
+  font-weight: bold;
+}
+
+h3 {
+  text-align: left;
+  text-decoration: underline;
+}
+
+p {
+  font-size: 20px;
+  font-weight: 100;
+  line-height: 35px;
+}
+
+.goals-style {
+  color: #E15554;
+  font-size: 20px;
+  text-decoration: none;
+}
